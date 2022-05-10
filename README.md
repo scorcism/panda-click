@@ -8,7 +8,7 @@
 
 #### PS
 ```sh
-This was supposed to be The cookie clicker but I did't find any no-copyright image of cookie So, 
+This was supposed to be The cookie clicker but I have no non-copyright image of cookie So, 
 Panda Click :) 
 ```
 
